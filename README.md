@@ -1,5 +1,7 @@
 # jsinheritance
 
+[![NPM](https://nodei.co/npm/jsinheritance.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/jsinheritance/)
+
 ## Install
 
 npm install jsinheritance
