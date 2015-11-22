@@ -1,0 +1,22 @@
+{
+  "name": "jsinheritance",
+  "version": "1.0.0",
+  "description": "Less verbose way to implement inheritance in javascript",
+  "main": "jsinheritance.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facka/jsinheritance.git"
+  },
+  "keywords": [
+    "js",
+    "inheritance",
+    "poo"
+  ],
+  "author": "Facundo Crego",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/facka/jsinheritance/issues"
+  },
+  "devDependencies": {
+  }
+}
