@@ -1,6 +1,6 @@
 {
   "name": "jsinheritance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Less verbose way to implement inheritance in javascript",
   "main": "jsinheritance.js",
   "repository": {
