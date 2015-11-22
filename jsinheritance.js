@@ -6,7 +6,6 @@ var classes = {
 var Define = function(child) {
 
   var name = child.name;
-  console.log('Class name: ' + name);
   if (name === 'Function') {
     throw 'Error: Cannot define an unnamed class.';
   }
@@ -28,7 +27,6 @@ var Define = function(child) {
       child.parents = {};
 
       parents.forEach(function(parent) {
-        console.log('Parent: ' + parent);
         var Parent = classes[parent];
         if (!Parent) {
           throw 'Parent ' + parent + ' is not defined.'
